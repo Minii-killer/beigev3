@@ -1,14 +1,14 @@
 [ 
     { 
         "author" : "Minii", 
-        "name" : "BeigeV3", 
+        "name" : "BeigeV4", 
         "keyWords" : "beige", 
-        "version" : "1.0.0", 
-        "dofusVersion" : "2.38", 
+        "version" : "4.0.0", 
+        "dofusVersion" : "2.40", 
         "description" : "Thème clair beige avec les anciens boutons", 
-        "url" : "https://github.com/Minii-killer/beigev3/raw/master/BeigeV3.zip", 
+        "url" : "https://github.com/Minii-killer/beigev3/raw/master/BeigeV4.zip", 
         "previewUrl" : "http://img11.hostingpics.net/pics/385216BeigeV3Preview.jpg", 
         "creationDate" : "11/11/2016", 
-        "modificationDate" : "11/11/2016" 
+        "modificationDate" : "03/02/2016" 
     } 
 ]
